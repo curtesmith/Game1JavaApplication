@@ -80,10 +80,4 @@ public class KeyTest extends GameCore implements KeyListener
             y += FONT_SIZE;
         }
     }
-    
-    @Override
-    public void run()
-    {
-        
-    }
 }
