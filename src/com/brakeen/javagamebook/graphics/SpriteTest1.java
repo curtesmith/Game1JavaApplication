@@ -1,4 +1,4 @@
-package graphicsjavaapplication;
+package com.brakeen.javagamebook.graphics;
 
 
 import java.awt.*;
