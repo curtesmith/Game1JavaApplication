@@ -32,7 +32,7 @@ public class Player extends Sprite
     }
     
     
-    public void setFloor(int floorY)
+    public void setFloorY(int floorY)
     {
         this.floorY = floorY;
         setY(floorY);
