@@ -2,6 +2,7 @@ package com.brakeen.javagamebook.userinterface;
 
 
 import com.brakeen.javagamebook.test.GameCore;
+
 import java.awt.Graphics2D;
 import java.awt.RenderingHints;
 import java.awt.Window;
@@ -11,7 +12,7 @@ import java.util.LinkedList;
 
 public class KeyTest extends GameCore implements KeyListener
 {
-    private LinkedList messages = new LinkedList();
+    private LinkedList<String> messages = new LinkedList<String>();
     
     
     public static void main(String[] args)
